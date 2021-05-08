@@ -2,7 +2,7 @@
 ## *****DAY-02 SESSION-01 Under HANDSON Folder Contains all the HandsOn from DAY-02 to DAY-05*****
 All the Angular Hands On are here in this repository.
 
-## Day-01
+## Day-01(Completed)
 ### > Session-01
 <h4> >> JavaScript Objects</h4>
 <h4> >> Demonstrate Single page application(SPA)</h4>
@@ -13,7 +13,7 @@ All the Angular Hands On are here in this repository.
 <h4> >> HandsOn related to interfaces in TypeScript</h4>
 <h4> >> ES6 Features Demo Codes</h4>
 
-## Day-02
+## Day-02 (Completed)
 ### > Session-01
 <h4> >> Create first Angular Application</h4>
 <h4> >> Demonstrate displaying data using interpolation, ngIf and ngFor</h4>
@@ -24,7 +24,7 @@ All the Angular Hands On are here in this repository.
 <h4> >> Demonstrate creation of component</h4>
 <h4> >> Demonstrate routing</h4>
 
-## Day-03
+## Day-03 (Completed)
 ### > Session-01
 <h4> >> Demonstrate implementation of forms using Template Driven Forms</h4>
 
@@ -32,7 +32,7 @@ All the Angular Hands On are here in this repository.
 <h4> >> Demonstrate implementation of forms using  Reactive Forms using FormGroup and FormBuilder</h4>
 
 
-## Day-04
+## Day-04 (Completed)
 ### > Session-01
 <h4> >> Demonstrate implementation of interaction between components</h4>
 
@@ -43,7 +43,7 @@ All the Angular Hands On are here in this repository.
 <h4> >> generate guard, define protected routes in app-routing.module.ts with mapping to guard, define authentication service to retain the status of authentication, implement redirection in guard based on authentication status </h4>
 
 ## Day-05
-### > Session-01
+### > Session-01 (Completed)
 <h4> >> Demonstrate using Service and HttpClient to invoke WebService</h4>
 
 ### > Session-02 (Not Done Yet)

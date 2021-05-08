@@ -42,3 +42,10 @@ All the Angular Hands On are here in this repository.
 <h4> >> Demonstrate protecting routes using auth guard</h4>
 <h4> >> generate guard, define protected routes in app-routing.module.ts with mapping to guard, define authentication service to retain the status of authentication, implement redirection in guard based on authentication status </h4>
 
+## Day-05
+### > Session-01
+<h4> >> Demonstrate using Service and HttpClient to invoke WebService</h4>
+
+### > Session-02 (Not Done Yet)
+<h4> >> Demonstrate end to end testing using Protractor</h4>
+<h4> >> Demonstrate building and deploying an angular application in web server</h4>

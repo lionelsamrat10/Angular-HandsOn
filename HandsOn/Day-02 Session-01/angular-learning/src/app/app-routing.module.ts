@@ -10,6 +10,7 @@ import { EmployeeListComponent } from './employee-list/employee-list.component';
 import { EmployeeInfoComponent } from './employee-info/employee-info.component';
 import { LoginComponent } from './login/login.component';
 import { AuthGuard } from '../app/auth/auth.guard';
+import { UserComponent } from './user/user.component';
 
 const routes: Routes = [
   {path: 'view-emp', component: ViewEmpComponent},
@@ -20,6 +21,7 @@ const routes: Routes = [
   {path: 'edit-emp-form-builder', component: EditEmpFormBuilderComponent},
   {path: 'employee-list', component: EmployeeListComponent},
   {path: 'login', component: LoginComponent},
+  {path: 'user', component: UserComponent}
 ];
 
 @NgModule({

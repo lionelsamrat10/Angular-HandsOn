@@ -1,5 +1,5 @@
 # Angular-HandsOn
-## DAY-02 SESSION-01 Under HANDSON Folder Contains all the HandsOn from DAY-02 to DAY-05
+## *****DAY-02 SESSION-01 Under HANDSON Folder Contains all the HandsOn from DAY-02 to DAY-05******
 All the Angular Hands On are here in this repository.
 
 ## Day-01
